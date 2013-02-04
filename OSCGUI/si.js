@@ -17,8 +17,8 @@ pages = [
 {
     "name":"knbb",
     "type":"Slider",
-    "x":0.0, "y":0.1,
-    "width":.22, "height":.5,
+    "x":0.0, "y":0.0,
+    "width":.22, "height":.6, 
     "stroke": "#550000",
     "color": "#ff0000",
     "min": 0.0, "max": 1.0,
@@ -28,8 +28,8 @@ pages = [
 {
     "name":"knbg",
     "type":"Slider",
-    "x":0.25, "y":0.1,
-    "width":.22, "height":.5,
+    "x":0.25, "y":0.0, 
+    "width":.22, "height":.6,
     "stroke": "#008800",
     "color": "#00ff00",
     "min": 0.0, "max": 1.0,
@@ -39,8 +39,8 @@ pages = [
 {
     "name":"knbr",
     "type":"Slider",
-    "x":0.5, "y":0.1,
-    "width":.22, "height":.5,
+    "x":0.5, "y":0.0,
+    "width":.22, "height":.6,
     "stroke": "#000088",
     "color": "#0000ff",
     "min": 0.0, "max": 1.0,
@@ -86,7 +86,7 @@ pages = [
 {
      "name": "audio",
      "type": "Button",
-     "x":.65, "y":.55,
+     "x":.65, "y":.65,
      "width":.35, "height":.1,
      "mode": "toggle",
      "min":0.0, "max":1.0,
