@@ -48,15 +48,7 @@ pages = [
     "isVertical" : true,
 },
 /* mode slider */
-{
-     "name" : "modd",
-     "type" : "MultiButton",
-     "x" : 0.03, "y" : 0.85,
-     "width" : .84, "height" : .12,
-     "rows" : 2, "columns" : 8,
-     "bounds": [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15],
-     "ontouchstart": "oscManager.sendOSC('/modd', this.value)",
-}
+
 /* speed slider */
 {
     "name":"delay",
