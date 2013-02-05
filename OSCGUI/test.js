@@ -4,7 +4,7 @@ StripInvader OSC Interface using Control (http://charlie-roberts.com/Control/)
 (c) by michael Vogt/neophob.com 2011
  */
 
-loadedInterfaceName = "stripInvaderBeta";
+loadedInterfaceName = "stripInvaderBetaV3";
 interfaceOrientation = "portrait";
 
 
@@ -17,10 +17,10 @@ pages = [
 {
     "name":"knbr",
     "type":"Slider",
-    "x":0.0, "y":0.1,
+    "x":0.0, "y":0.0,
     "width":.22, "height":.4,
-    "stroke": "#550000",
-    "color": "#ff0000",
+    "stroke": "#000055",
+    "color": "#0000ff",
     "min": 0.0, "max": 1.0,
     "isXFader" : false,
     "isVertical" : true,
@@ -28,7 +28,7 @@ pages = [
 {
     "name":"knbg",
     "type":"Slider",
-    "x":0.25, "y":0.1,
+    "x":0.25, "y":0.0,
     "width":.22, "height":.4,
     "stroke": "#008800",
     "color": "#00ff00",
@@ -39,10 +39,10 @@ pages = [
 {
     "name":"knbb",
     "type":"Slider",
-    "x":0.5, "y":0.1,
+    "x":0.5, "y":0.0,
     "width":.22, "height":.4,
-    "stroke": "#000088",
-    "color": "#0000ff",
+    "stroke": "#550000",
+    "color": "#ff0000",
     "min": 0.0, "max": 1.0,
     "isXFader" : false,
     "isVertical" : true,
@@ -52,7 +52,7 @@ pages = [
 {
     "name":"delay",
     "type":"Slider",
-    "x":0.75, "y":0.1,
+    "x":0.75, "y":0.0,
     "width":.22, "height":.4,
     "stroke": "#888888",
     "color": "#cccccc",
@@ -63,7 +63,7 @@ pages = [
 {
     "name": "delayLabel",
     "type": "Label",
-    "x": 0.75, "y": 0.5,
+    "x": 0.75, "y": 0.4,
     "width": .22, "height": .05,
     "color": "#cccccc",
     "value": "Delay",
@@ -73,8 +73,8 @@ pages = [
 {
      "name": "mode",
      "type": "Button",
-     "x":.0, "y":.55,
-     "width":.6, "height":.2,
+     "x":.0, "y":.50,
+     "width":.22, "height":.2,
      "mode": "momentary",
      "min":0.0, "max":1.0,
      "color": "#fc8000",
@@ -86,7 +86,7 @@ pages = [
 {
      "name": "audio",
      "type": "Button",
-     "x":.65, "y":.55,
+     "x":.75, "y":.55,
      "width":.35, "height":.2,
      "mode": "toggle",
      "min":0.0, "max":1.0,
@@ -100,7 +100,7 @@ pages = [
 {
      "name": "refreshButton",
      "type": "Button",
-     "x": 0.5, "y": .8,
+     "x": 0.75, "y": .8,
      "width": .22, "height": .1,
      "mode": "contact",
      "color": "#fc8000",
