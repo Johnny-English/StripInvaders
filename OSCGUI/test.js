@@ -58,7 +58,7 @@ pages = [
      "color": "#fc8000",
      "stroke": "#7e4000",
      "label": "1",
-     "labelSize": "8",
+     "labelSize": "12",
 },
 {
      "name": "modd",
@@ -70,7 +70,7 @@ pages = [
      "color": "#fc8000",
      "stroke": "#7e4000",
      "label": "2",
-     "labelSize": "8",
+     "labelSize": "12",
 },
 {
      "name": "modd",
@@ -82,7 +82,7 @@ pages = [
      "color": "#fc8000",
      "stroke": "#7e4000",
      "label": "3",
-     "labelSize": "8",
+     "labelSize": "12",
 },
 {
      "name": "modd",
@@ -94,7 +94,7 @@ pages = [
      "color": "#fc8000",
      "stroke": "#7e4000",
      "label": "4",
-     "labelSize": "8",
+     "labelSize": "12",
 },
 {
      "name": "modd",
@@ -106,7 +106,7 @@ pages = [
      "color": "#fc8000",
      "stroke": "#7e4000",
      "label": "5",
-     "labelSize": "8",
+     "labelSize": "12",
 },
 {
      "name": "modd",
@@ -118,7 +118,7 @@ pages = [
      "color": "#fc8000",
      "stroke": "#7e4000",
      "label": "6",
-     "labelSize": "8",
+     "labelSize": "12",
 },
 {
      "name": "modd",
@@ -130,7 +130,7 @@ pages = [
      "color": "#fc8000",
      "stroke": "#7e4000",
      "label": "7",
-     "labelSize": "8",
+     "labelSize": "12",
 },
 {
      "name": "modd",
@@ -142,7 +142,7 @@ pages = [
      "color": "#fc8000",
      "stroke": "#7e4000",
      "label": "8",
-     "labelSize": "8",
+     "labelSize": "12",
 },
 {
      "name": "modd",
@@ -154,7 +154,7 @@ pages = [
      "color": "#fc8000",
      "stroke": "#7e4000",
      "label": "9",
-     "labelSize": "8",
+     "labelSize": "12",
 },
 {
      "name": "modd",
@@ -166,7 +166,7 @@ pages = [
      "color": "#fc8000",
      "stroke": "#7e4000",
      "label": "10",
-     "labelSize": "8",
+     "labelSize": "12",
 },
 {
      "name": "modd",
@@ -178,7 +178,7 @@ pages = [
      "color": "#fc8000",
      "stroke": "#7e4000",
      "label": "11",
-     "labelSize": "8",
+     "labelSize": "12",
 },
 {
      "name": "modd",
@@ -190,7 +190,7 @@ pages = [
      "color": "#fc8000",
      "stroke": "#7e4000",
      "label": "12",
-     "labelSize": "8",
+     "labelSize": "12",
 },
 {
      "name": "modd",
@@ -202,7 +202,7 @@ pages = [
      "color": "#fc8000",
      "stroke": "#7e4000",
      "label": "13",
-     "labelSize": "8",
+     "labelSize": "12",
 },
 {
      "name": "modd",
@@ -214,7 +214,7 @@ pages = [
      "color": "#fc8000",
      "stroke": "#7e4000",
      "label": "14",
-     "labelSize": "8",
+     "labelSize": "12",
 },
 {
      "name": "modd",
@@ -226,7 +226,7 @@ pages = [
      "color": "#fc8000",
      "stroke": "#7e4000",
      "label": "15",
-     "labelSize": "8",
+     "labelSize": "12",
 },
 {
      "name": "modd",
@@ -238,7 +238,7 @@ pages = [
      "color": "#fc8000",
      "stroke": "#7e4000",
      "label": "16",
-     "labelSize": "8",
+     "labelSize": "12",
 },
 /* speed slider */
 {
