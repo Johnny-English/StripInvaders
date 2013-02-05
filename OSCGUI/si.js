@@ -4,7 +4,7 @@ StripInvader OSC Interface using Control (http://charlie-roberts.com/Control/)
 (c) by michael Vogt/neophob.com 2011
  */
 
-loadedInterfaceName = "stripInvaderBeta";
+loadedInterfaceName = "stripInvaderBetaV2";
 interfaceOrientation = "portrait";
 
 
@@ -52,7 +52,7 @@ pages = [
 {
     "name":"delay",
     "type":"Slider",
-    "x":0.75, "y":0.1,
+    "x":0.75, "y":0.0,
     "width":.22, "height":.4,
     "stroke": "#888888",
     "color": "#cccccc",
@@ -73,8 +73,8 @@ pages = [
 {
      "name": "mode",
      "type": "Button",
-     "x":.0, "y":.65,
-     "width":.6, "height":.1,
+     "x":0.75, "y":0.6,
+     "width":.22, "height":.1,
      "mode": "momentary",
      "min":0.0, "max":1.0,
      "color": "#fc8000",
@@ -86,8 +86,8 @@ pages = [
 {
      "name": "audio",
      "type": "Button",
-     "x":.65, "y":.65,
-     "width":.35, "height":.1,
+     "x":.75, "y":.75,
+     "width":.22, "height":.1,
      "mode": "toggle",
      "min":0.0, "max":1.0,
      "color": "#fc8000",
