@@ -63,7 +63,7 @@ pages = [
 {
     "name": "delayLabel",
     "type": "Label",
-    "x": 0.75, "y": 0.5,
+    "x": 0.75, "y": 0.42,
     "width": .22, "height": .05,
     "color": "#cccccc",
     "value": "Delay",
@@ -73,7 +73,7 @@ pages = [
 {
      "name": "mode",
      "type": "Button",
-     "x":0.75, "y":0.6,
+     "x":0.75, "y":0.45,
      "width":.22, "height":.1,
      "mode": "momentary",
      "min":0.0, "max":1.0,
@@ -86,7 +86,7 @@ pages = [
 {
      "name": "audio",
      "type": "Button",
-     "x":.75, "y":.75,
+     "x":.75, "y":.60,
      "width":.22, "height":.1,
      "mode": "toggle",
      "min":0.0, "max":1.0,
@@ -100,7 +100,7 @@ pages = [
 {
      "name": "refreshButton",
      "type": "Button",
-     "x": 0.5, "y": .8,
+     "x": 0.5, "y": .75,
      "width": .22, "height": .1,
      "mode": "contact",
      "color": "#fc8000",
@@ -113,7 +113,7 @@ pages = [
 {
     "name": "tabButton",
     "type": "Button",
-    "x": 0.75, "y": .8,
+    "x": 0.75, "y": .9,
     "width": .22, "height": .1,
     "mode": "toggle",
     "color": "#fc8000",
