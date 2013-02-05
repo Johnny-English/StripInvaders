@@ -59,14 +59,6 @@ pages = [
     "isXFader" : true,
     "isVertical" : false,
 },
-{
-    "name": "moddLabel",
-    "type": "Label",
-    "x": 0.0, "y": 0.95,
-    "width": 1.0, "height": .05,
-    "color": "#7e4000",
-    "value": modd,
-},
 /* speed slider */
 {
     "name":"delay",
