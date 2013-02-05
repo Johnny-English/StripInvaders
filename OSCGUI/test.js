@@ -73,7 +73,7 @@ pages = [
 {
      "name": "mode",
      "type": "Button",
-     "x":.0, "y":.50,
+     "x":0.75, "y":0.40,
      "width":.22, "height":.2,
      "mode": "momentary",
      "min":0.0, "max":1.0,
@@ -86,7 +86,7 @@ pages = [
 {
      "name": "audio",
      "type": "Button",
-     "x":.75, "y":.55,
+     "x":.75, "y":.60,
      "width":.35, "height":.2,
      "mode": "toggle",
      "min":0.0, "max":1.0,
@@ -100,7 +100,7 @@ pages = [
 {
      "name": "refreshButton",
      "type": "Button",
-     "x": 0.75, "y": .8,
+     "x": 0.75, "y": .80,
      "width": .22, "height": .1,
      "mode": "contact",
      "color": "#fc8000",
