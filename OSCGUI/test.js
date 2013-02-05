@@ -50,22 +50,11 @@ pages = [
 /* mode slider */
 {
     "name":"modd",
-    "type":"Slider",
+    "type":"Multibutton",
     "x":0.03, "y":0.85,
     "width":0.94, "height":.1,
-    "stroke": "#fc8000",
-    "color": "#7e4000",
-    "min": 0.0, "max": 14.0,
-    "isXFader" : true,
-    "isVertical" : false,
-},
-{
-    "name": "moddLabel",
-    "type": "Label",
-    "x": 0.0, "y": 0.95,
-    "width": 1.0, "height": .05,
-    "color": "#7e4000",
-    "value": /modd/,
+    "rows" : 1, "columns" : 15,
+    "bounds": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14],
 },
 /* speed slider */
 {
