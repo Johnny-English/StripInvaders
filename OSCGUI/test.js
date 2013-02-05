@@ -111,7 +111,7 @@ pages = [
 {
     "name": "tabButton",
     "type": "Button",
-    "x": 0.75, "y": .73,
+    "x": 0.75, "y": .74,
     "width": .22, "height": .09,
     "mode": "toggle",
     "color": "#fc8000",
