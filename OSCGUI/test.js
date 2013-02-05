@@ -65,7 +65,7 @@ pages = [
     "x": 0.0, "y": 0.95,
     "width": 1.0, "height": .05,
     "color": "#7e4000",
-    "value": modd,
+    "value": /modd/,
 },
 /* speed slider */
 {
