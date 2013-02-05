@@ -52,7 +52,7 @@ pages = [
     "name":"modd",
     "type":"Slider",
     "x":0, "y":0.85,
-    "width":.72, "height":.1,
+    "width":1.0, "height":.1,
     "stroke": "#fc8000",
     "color": "#7e4000",
     "min": 0.0, "max": 14.0,
@@ -80,24 +80,11 @@ pages = [
     "value": "Delay",
 },
 
-/* -- RANDOM PRESET Buttons */
-{
-     "name": "mode",
-     "type": "Button",
-     "x":0.75, "y":0.45,
-     "width":.22, "height":.1,
-     "mode": "momentary",
-     "min":0.0, "max":1.0,
-     "color": "#fc8000",
-     "stroke": "#7e4000",
-     "label": "MODE",
-     "labelSize": "18",
-},
 /* -- AUDIO toggle PRESET Buttons */
 {
      "name": "audio",
      "type": "Button",
-     "x":.75, "y":.55,
+     "x":.75, "y":.45,
      "width":.22, "height":.1,
      "mode": "toggle",
      "min":0.0, "max":1.0,
@@ -111,7 +98,7 @@ pages = [
 {
      "name": "refreshButton",
      "type": "Button",
-     "x": 0.75, "y": .65,
+     "x": 0.75, "y": .55,
      "width": .22, "height": .1,
      "mode": "contact",
      "color": "#fc8000",
@@ -124,7 +111,7 @@ pages = [
 {
     "name": "tabButton",
     "type": "Button",
-    "x": 0.75, "y": .85,
+    "x": 0.75, "y": .75,
     "width": .22, "height": .1,
     "mode": "toggle",
     "color": "#fc8000",
@@ -138,7 +125,7 @@ pages = [
 {
      "name": "sav",
      "type": "Button",
-     "x": 0.75, "y": .75,
+     "x": 0.75, "y": .65,
      "width": .22, "height": .1,
      "mode": "contact",
      "color": "#fc8000",
