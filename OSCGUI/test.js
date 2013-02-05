@@ -17,8 +17,8 @@ pages = [
 {
     "name":"knbr",
     "type":"Slider",
-    "x":0.0, "y":0.0,
-    "width":.22, "height":.8,
+    "x":0.1, "y":0.0,
+    "width":.22, "height":.83,
     "stroke": "#000055",
     "color": "#0000ff",
     "min": 0.0, "max": 1.0,
@@ -28,8 +28,8 @@ pages = [
 {
     "name":"knbg",
     "type":"Slider",
-    "x":0.25, "y":0.0,
-    "width":.22, "height":.8,
+    "x":0.27, "y":0.0,
+    "width":.22, "height":.83,
     "stroke": "#008800",
     "color": "#00ff00",
     "min": 0.0, "max": 1.0,
@@ -39,8 +39,8 @@ pages = [
 {
     "name":"knbb",
     "type":"Slider",
-    "x":0.5, "y":0.0,
-    "width":.22, "height":.8,
+    "x":0.51, "y":0.0,
+    "width":.22, "height":.83,
     "stroke": "#550000",
     "color": "#ff0000",
     "min": 0.0, "max": 1.0,
@@ -51,8 +51,8 @@ pages = [
 {
     "name":"modd",
     "type":"Slider",
-    "x":0, "y":0.85,
-    "width":1.0, "height":.1,
+    "x":0.03, "y":0.85,
+    "width":0.94, "height":.1,
     "stroke": "#fc8000",
     "color": "#7e4000",
     "min": 0.0, "max": 14.0,
